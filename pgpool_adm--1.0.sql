@@ -1,4 +1,4 @@
-dministrative functions for pgPool
+/* Administrative functions for pgPool
  * *********************************************** */
 
 /**
